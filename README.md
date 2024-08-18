@@ -25,7 +25,7 @@ To run this project, ensure that you have Python installed. You'll need to insta
 pip install pandas numpy seaborn matplotlib scikit-learn
 ```
 
-##Usage
+## Usage
 
 1. Clone the repository
 
